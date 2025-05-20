@@ -1,0 +1,66 @@
+.heading2Xl {
+  font-size: 2.5rem;
+  line-height: 1.2;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+
+}   
+
+.headingXl {
+  font-size: 2rem;
+  line-height: 1.2;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+
+}
+.headingLg {
+  font-size: 1.5rem;
+  line-height: 1.4;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+
+}   
+.borderCircle {
+  border-radius: 50%;
+}   
+    .padding1px {
+  padding: 1px;
+}
+.padding2px {
+  padding: 2px;
+}
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.listItem {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+.listItem:hover {
+  background-color: #e0e0e0;
+}
+.listItem:focus {
+  outline: 2px solid #0070f3;
+}
+.lightText {
+  color: #666;
+}
+.lightTextLarge {
+  color: #666;
+  font-size: 1.2rem;
+}
+.lightTextSmall {
+  color: #666;
+  font-size: 0.8rem;
+}
+.lightTextXl {
+  color: #666;
+  font-size: 1.5rem;
+}
